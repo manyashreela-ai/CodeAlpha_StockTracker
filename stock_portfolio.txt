@@ -1,0 +1,6 @@
+STOCK PORTFOLIO REPORT
+======================
+AAPL | Quantity: 5 | Price: $180 | Investment: $900
+TSLA | Quantity: 10 | Price: $250 | Investment: $2500
+
+Total Investment: $3400
